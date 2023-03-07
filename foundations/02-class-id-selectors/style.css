@@ -1,0 +1,19 @@
+.one {
+    background-color: hsl(0, 93%, 89%);
+    font-style: "verdana" "Dejavu" "san-serif";
+}
+
+#who {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.one.two {
+    font-size: 24px;
+}
+
+#where {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
