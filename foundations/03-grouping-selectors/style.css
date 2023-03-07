@@ -1,0 +1,14 @@
+.been {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.care {
+    background-color: rgb(243, 219, 0);
+}
+
+.been,
+.care {
+    font-size: 28px;
+    font-style: "Helvetica", "Times New Roman", "sans-serif";
+}
