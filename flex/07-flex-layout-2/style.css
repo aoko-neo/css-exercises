@@ -63,10 +63,18 @@ ul {
   margin: 0;
 }
 
+li {
+  margin-bottom: 16px;
+}
+
 a {
   font-size: 24px;
   color: white;
   text-decoration: none;
+}
+
+a > span {
+  color: yellow;
 }
 
 .content {
@@ -79,6 +87,7 @@ a {
   width: 200px;
   height: 250px;
   padding: 32px;
+  margin: 8px;
 }
 
 span {
